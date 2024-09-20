@@ -25,10 +25,10 @@ Program ini berfungsi untuk mengubah plaintext ke ciphertext maupun sebaliknya d
 #Input dan Output
 
 Input dari program berbeda-beda sesuai dengan metodenya.
-a) Metode Vigenere dan Playfair Cipher
+1) Metode Vigenere dan Playfair Cipher
   -Input: plaintext/file dan keyword
   -Output: ciphertext
-b) Metode Hill Cipher
+2) Metode Hill Cipher
   -Input: plaintext/file dan matriks keyword
   -Output: ciphertext
 
