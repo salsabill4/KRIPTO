@@ -1,7 +1,8 @@
 # KRIPTO
 
 #Tentang Program
-*Program ini berfungsi untuk mengubah plaintext ke ciphertext maupun sebaliknya dengan menggunakan 3 metode cipher yaitu vigenere cipher, playfair cipher, dan hill cipher. Input dari program ini dapat berupa dari keyboard langsung maupun mengupload file.
+
+Program ini berfungsi untuk mengubah plaintext ke ciphertext maupun sebaliknya dengan menggunakan 3 metode cipher yaitu vigenere cipher, playfair cipher, dan hill cipher. Input dari program ini dapat berupa dari keyboard langsung maupun mengupload file.
 
 #Tools
 Bahasa Pemrograman: Python
