@@ -5,9 +5,9 @@
 Program ini berfungsi untuk mengubah plaintext ke ciphertext maupun sebaliknya dengan menggunakan 3 metode cipher yaitu vigenere cipher, playfair cipher, dan hill cipher. Input dari program ini dapat berupa dari keyboard langsung maupun mengupload file.
 
 #Tools
-Bahasa Pemrograman: Python
-Framework: Streamlit
-Code editor: VS Code
+ - Bahasa Pemrograman: Python
+ - Framework: Streamlit
+ - Code editor: VS Code
 
 #Instalasi
 1) Download python
@@ -20,6 +20,7 @@ Code editor: VS Code
 6) Program siap dijalankan pada streamlit framework
 
 #Input dan Output
+
 Input dari program berbeda-beda sesuai dengan metodenya.
 a) Metode Vigenere dan Playfair Cipher
   -Input: plaintext/file dan keyword
@@ -29,6 +30,7 @@ b) Metode Hill Cipher
   -Output: ciphertext
 
 #Fitur
+
 Program ini dapat mengubah text/file secara enkripsi (plain->cipher) maupun dekripsi (cipher->plain).
 
 #Cara Kerja Program
